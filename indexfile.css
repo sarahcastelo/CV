@@ -1,12 +1,4 @@
-body{
-  background-color: #CF7500
-}
-a {
-  color: #00005c
-}
-hr{
-  border-style: 2
-}
+
 h1{
   font-family: cursive;
 
@@ -15,4 +7,10 @@ h3{
   font-family: cursive;
   font-weight: 500;
   font-size: 30px
+}
+table{
+  font-family: cursive
+}
+body{
+  background-color:lavenderblush
 }
